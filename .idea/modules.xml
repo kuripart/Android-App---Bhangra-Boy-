@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-App---Bhangra-Boy.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-App---Bhangra-Boy.iml" group="Android-App---Bhangra-Boy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-App---Bhangra-Boy-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-App---Bhangra-Boy-app.iml" group="Android-App---Bhangra-Boy/app" />
       <module fileurl="file://$PROJECT_DIR$/Workingwithsprites.iml" filepath="$PROJECT_DIR$/Workingwithsprites.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
